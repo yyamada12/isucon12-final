@@ -9,5 +9,3 @@
         name: isucon-user
     - import_role:
         name: xbuild
-    - import_role:
-        name: xbuildwebapp
